@@ -1,0 +1,12 @@
+.FRONT_BACK_MATTER {
+  background-color: lightcoral;
+}
+
+.CONTAINER {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.SCENE {
+  background-color: lightgray;
+}
